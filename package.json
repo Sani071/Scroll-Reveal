@@ -1,0 +1,16 @@
+{
+  "name": "myscroll",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RS-SANI AHMED",
+  "license": "ISC",
+  "dependencies": {
+    "scrollreveal": "^3.4.0",
+    "unpkg": "^0.2.0",
+    "whatwg-url": "^6.4.0"
+  }
+}
